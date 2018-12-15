@@ -1,0 +1,54 @@
+body {
+    background-image: url("/assets/site/mapblue.jpg");
+}
+
+.div_main {
+    float: left;
+    width: 80%;
+}
+
+.aside_main {
+    height: 950px;
+    float: left;
+    width: 20%;
+}
+
+.title {
+    text-align: center;
+}
+
+.searchresult {
+    position: relative;
+    height: 600px;
+}
+
+.searchresult__pic {
+    padding: 20px;
+    text-align: center;
+    height: 170px;
+    width: 100%;
+}
+
+.searchresult__charname {
+    float: left;
+}
+
+.searchresult__house {
+    float: right;
+}
+
+.searchresult__bio {
+    margin: 20px;
+    padding: 25px;
+}
+
+.div__pic {
+    text-align: center;
+    margin: 15px;
+    float: left;
+}
+
+.searchfield {
+    margin: 15px;
+    padding: 15px;
+}
