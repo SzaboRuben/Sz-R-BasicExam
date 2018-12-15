@@ -8,8 +8,9 @@ body {
 }
 
 .aside_main {
+  background-color: grey;
   float: left;
-  height: 950px;
+  height: 700px;
   width: 20%;
 }
 
@@ -24,7 +25,6 @@ body {
 
 .searchresult__pic {
   height: 170px;
-  padding: 20px;
   text-align: center;
   width: 100%;
 }
